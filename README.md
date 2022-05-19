@@ -1,2 +1,2 @@
 # retoFrontendFundamentalsMayo
-Integrantes: Gustavo Santillán, Camila Santillán
+Este primer reto lo presentamos Gustavo Santillán y Camila Santillán, el día 20 de Mayo de 2022.
