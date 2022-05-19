@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Press+Start+2P&display=swap');
+
+body {
+    background-image: url(https://www.alertageekchile.cl/wp-content/uploads/2018/11/UZKEjzG.png);
+    background-size: cover;
+    height : 80vh;
+}
+
+main {
+    margin: 0 auto;
+    border: 4px solid #6ca5ca;
+    border-radius: 20px;
+
+    width: 300px;
+    height: 265px;
+
+    margin-top: 185px;
+
+    background: linear-gradient(to bottom, #D0FF4F, #FFFFFF);
+
+    box-shadow: 6px 10px 10px gray;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Bungee', cursive;
+    font-size: 33px;
+    color: black;
+    
+    text-shadow: 2px 2px 2px #6ca5ca;
+
+    margin: 0;
+
+    border-start-end-radius: 18px;
+    border-top-left-radius: 18px;
+
+    margin-bottom: -12px;
+}
+
+form {
+    text-align: center;
+}
+
+label {
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: 600;
+    font-size: 12px;
+    color: black;
+
+    padding-top: 10px;
+}
+
+input {
+    display: block;
+
+    margin: 0 auto;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    
+    border-radius: 8px;
+}
+
+button {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+
+    color: black;
+
+    margin-top: 5px;
+    padding: 6px 4px 5px 4px;
+
+    box-shadow: 2px 2px 2px gray;
+
+    border-radius: 5px;
+}
+
+img {
+    width: 50px;
+    height: auto;
+
+    margin-top: 10px;
+    margin-left: 125px;
+    }
